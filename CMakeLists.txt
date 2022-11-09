@@ -15,6 +15,7 @@ add_subdirectory(lib_matrix)     # подключаем дополнительн
 add_subdirectory(lib_example_2)
 add_subdirectory(lib_queue)
 add_subdirectory(lib_stack)
+add_subdirectory(lib_list)
 add_subdirectory(lib_data_structure)
 add_subdirectory(main)           # подключаем дополнительный CMakeLists.txt из подкаталога с именем main
 
